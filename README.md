@@ -41,7 +41,7 @@ This project features an interactive **E-Commerce Sales Dashboard** designed to 
 2. Interact with visualizations like charts and filters to explore specific dimensions.
 3. Analyze trends and patterns in sales and profitability across time periods and categories.
 
-## Output ScreenShots
+## DashBoards
 
 <img src="1.png"/><br/>
 <img src="2.png"/><br/>
