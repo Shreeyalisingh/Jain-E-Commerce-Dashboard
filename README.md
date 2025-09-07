@@ -26,7 +26,7 @@ This project features an interactive **E-Commerce Sales Dashboard** designed to 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/jain-ecommerce-dashboard.git
+   git clone https://github.com/Shreeyalisingh/jain-ecommerce-dashboard.git
    ```
 2. Open the project in your preferred visualization tool or web browser.
 3. If applicable, ensure required libraries or dependencies are installed:
